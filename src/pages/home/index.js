@@ -32,7 +32,9 @@ function Home () {
           flexWrap: 'wrap',
           justifyContent: 'center',
           bgcolor: 'background.paper',
-          height: '800px'
+          width: '80%',
+          height: '800px',
+          marginLeft: '10%'
 
         }}
       >
